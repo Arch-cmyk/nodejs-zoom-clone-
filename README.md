@@ -1,2 +1,2 @@
 # nodejs-zoom-clone-
-zoom app created using node.js
+a clone of zoom app created using node.js 
